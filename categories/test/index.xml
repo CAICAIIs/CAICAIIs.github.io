@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Test on 咕嘟彩彩</title>
-        <link>http://localhost:1313/categories/test/</link>
+        <link>https://CAICAIIs.github.io/categories/test/</link>
         <description>Recent content in Test on 咕嘟彩彩</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>CAICAIIs</copyright><atom:link href="http://localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>CAICAIIs</copyright><atom:link href="https://CAICAIIs.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

@@ -7,21 +7,12 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>CAICAIIs</copyright>
-        <lastBuildDate>Fri, 21 Mar 2025 23:37:23 +0800</lastBuildDate><atom:link href="https://CAICAIIs.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://CAICAIIs.github.io/p/test/</link>
-        <pubDate>Fri, 21 Mar 2025 23:37:23 +0800</pubDate>
-        
-        <guid>https://CAICAIIs.github.io/p/test/</guid>
-        <description>&lt;img src="https://CAICAIIs.github.io/p/test/test.jpg" alt="Featured image of post Test" /&gt;&lt;p&gt;Ciallo～(∠・ω&amp;lt; )⌒★&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://CAICAIIs.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>https://CAICAIIs.github.io/%E5%BD%92%E6%A1%A3/</link>
+        <link>https://CAICAIIs.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://CAICAIIs.github.io/%E5%BD%92%E6%A1%A3/</guid>
+        <guid>https://CAICAIIs.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
@@ -36,10 +27,10 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>https://CAICAIIs.github.io/%E6%90%9C%E7%B4%A2/</link>
+        <link>https://CAICAIIs.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://CAICAIIs.github.io/%E6%90%9C%E7%B4%A2/</guid>
+        <guid>https://CAICAIIs.github.io/search/</guid>
         <description></description>
         </item>
         <item>

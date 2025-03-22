@@ -6,6 +6,14 @@
         <description>Recent content in Categories on 咕嘟彩彩</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>CAICAIIs</copyright><atom:link href="https://CAICAIIs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>CAICAIIs</copyright><atom:link href="https://CAICAIIs.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://CAICAIIs.github.io/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://CAICAIIs.github.io/categories/test/</guid>
+        <description>&lt;img src="https://CAICAIIs.github.io/categories/test/tiantongailisi44D6850B4.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
     </channel>
 </rss>
